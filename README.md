@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter calculator.
+Flutter Calculator is a simple and elegant calculator app built using the Flutter framework. It provides a user-friendly interface for performing basic mathematical operations such as addition, subtraction, multiplication, and division, as well as more advanced functions like square root and percentage calculations.
 
 ## Getting Started
 
